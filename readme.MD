@@ -41,4 +41,4 @@ Para acessar o site ao vivo <a href=''>Clique Aqui!</a>
 
 Feito com `💚` por **Alessandro Paolazzi** ✌🏼. Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandropaolazzi/)](https://www.linkedin.com/in/alessandropaolazzi/) [![Gmail Badge](https://img.shields.io/badge/-alepaolazzidasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alepaolazzidasilva@gmail.com)](mailto:alepaolazzidasilva@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Alessandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandropaolazzi/)](https://www.linkedin.com/in/alessandropaolazzi/)
