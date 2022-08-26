@@ -6,7 +6,7 @@
 
 ## Sobre o projeto
 
-Resultado do primeiro Challenge da trilha Iniciante em Programação do programa ONE.
+Resultado do primeiro Challenge da Trilha Iniciante em Programação do programa ONE.
 
 Nesse projeto, era necessário substituir vogais, para assim, criar uma criptografia, sendo possível criptografar ou descriptografar uma mensagem.
 
